@@ -1,0 +1,99 @@
+Ticker,Sector,Industry,ROE > 17%,EPS Up 18% (1Y),Sales Up 25% (1Q),Sales Accel. (3Q),EPS Up 25% (5Y),Debt/Equity Down (3Y),Cash/Shares Up 20% (vs. EPS)
+TSLA,Consumer Durables,Motor Vehicles,True,True,True,True,True,True,True,7
+VRSK,Technology Services,Data Processing Services,True,True,False,True,True,True,True,6
+NTES,Technology Services,Packaged Software,True,True,False,True,True,True,True,6
+MNST,Consumer Non-Durables,Beverages: Non-Alcoholic,True,True,False,False,True,True,True,5
+FAST,Distribution Services,Wholesale Distributors,True,True,False,True,True,False,True,5
+CSX,Transportation,Railroads,True,True,False,False,True,True,True,5
+CPRT,Commercial Services,Miscellaneous Commercial Services,True,True,False,True,-,True,True,5
+ADP,Technology Services,Data Processing Services,True,True,False,True,True,False,True,5
+NFLX,Technology Services,Internet Software/Services,True,True,False,False,True,True,True,5
+ATVI,Technology Services,Packaged Software,False,True,False,True,True,True,True,5
+MSFT,Technology Services,Packaged Software,True,True,False,False,True,True,True,5
+CSCO,Electronic Technology,Telecommunications Equipment,True,True,False,True,True,False,True,5
+QCOM,Electronic Technology,Semiconductors,True,True,False,True,-,True,True,5
+NVDA,Electronic Technology,Semiconductors,True,True,False,True,True,False,True,5
+MCHP,Electronic Technology,Semiconductors,True,True,False,False,True,True,True,5
+DLTR,Retail Trade,Discount Stores,True,True,False,True,True,True,-,5
+AMZN,Retail Trade,Internet Retail,True,True,False,False,True,True,True,5
+GILD,Health Technology,Biotechnology,True,True,False,True,True,False,True,5
+BMRN,Health Technology,Biotechnology,False,True,False,True,True,True,True,5
+VRTX,Health Technology,Pharmaceuticals: Major,True,True,False,False,True,True,True,5
+BKNG,Consumer Services,Other Consumer Services,True,True,True,False,True,False,True,5
+KDP,Consumer Non-Durables,Beverages: Non-Alcoholic,False,True,False,False,True,True,True,4
+PEP,Consumer Non-Durables,Beverages: Non-Alcoholic,True,True,False,False,True,False,True,4
+MDLZ,Consumer Non-Durables,Food: Specialty/Candy,False,True,False,True,True,False,True,4
+ODFL,Transportation,Trucking,True,True,False,False,True,False,True,4
+PYPL,Commercial Services,Miscellaneous Commercial Services,True,True,False,False,True,False,True,4
+PCAR,Producer Manufacturing,Trucks/Construction/Farm Machinery,False,True,False,False,True,True,True,4
+LRCX,Producer Manufacturing,Industrial Machinery,True,True,False,False,True,False,True,4
+PAYX,Technology Services,Data Processing Services,True,True,False,False,True,False,True,4
+VRSN,Technology Services,Internet Software/Services,-,True,False,True,True,-,True,4
+GOOG,Technology Services,Internet Software/Services,True,True,False,False,True,False,True,4
+ADBE,Technology Services,Packaged Software,True,True,False,True,-,False,True,4
+SNPS,Technology Services,Packaged Software,True,True,False,True,-,False,True,4
+EA,Technology Services,Packaged Software,False,True,False,True,True,False,True,4
+CRWD,Technology Services,Packaged Software,False,True,False,True,True,False,True,4
+HON,Electronic Technology,Aerospace & Defense,True,True,False,False,True,False,True,4
+FTNT,Electronic Technology,Computer Communications,True,True,False,False,True,False,True,4
+AAPL,Electronic Technology,Telecommunications Equipment,True,True,False,True,-,-,True,4
+AVGO,Electronic Technology,Semiconductors,True,True,False,True,-,False,True,4
+TXN,Electronic Technology,Semiconductors,True,True,False,False,True,False,True,4
+SWKS,Electronic Technology,Semiconductors,True,True,False,True,-,False,True,4
+NXPI,Electronic Technology,Semiconductors,True,True,False,False,True,False,True,4
+MU,Electronic Technology,Semiconductors,True,False,False,True,-,True,True,4
+KLAC,Electronic Technology,Semiconductors,True,True,False,False,True,False,True,4
+INTC,Electronic Technology,Semiconductors,True,False,False,True,True,False,True,4
+ENPH,Electronic Technology,Semiconductors,True,True,False,False,True,False,True,4
+ASML,Electronic Technology,Semiconductors,True,True,False,False,True,False,True,4
+EXC,Utilities,Electric Utilities,False,True,False,True,True,False,True,4
+AEP,Utilities,Electric Utilities,False,True,False,True,True,False,True,4
+WBA,Retail Trade,Drugstore Chains,True,True,False,True,-,False,True,4
+ROST,Retail Trade,Apparel/Footwear Retail,True,True,False,False,True,-,True,4
+PDD,Retail Trade,Internet Retail,False,True,False,False,True,True,True,4
+LULU,Retail Trade,Internet Retail,True,True,False,False,True,False,True,4
+EBAY,Retail Trade,Internet Retail,False,True,False,False,True,True,True,4
+AMGN,Health Technology,Biotechnology,True,True,False,False,True,-,True,4
+MRNA,Health Technology,Biotechnology,True,True,False,False,True,False,True,4
+ILMN,Health Technology,Biotechnology,False,True,False,True,True,False,True,4
+REGN,Health Technology,Pharmaceuticals: Major,True,True,False,False,True,False,True,4
+ISRG,Health Technology,Medical Specialties,False,True,False,False,True,True,True,4
+DXCM,Health Technology,Medical Specialties,False,True,False,False,True,True,True,4
+ALGN,Health Technology,Medical Specialties,True,True,False,False,True,False,True,4
+CMCSA,Consumer Services,Cable/Satellite TV,False,True,False,True,True,True,-,4
+CHTR,Consumer Services,Cable/Satellite TV,True,True,False,False,True,False,True,4
+CTAS,Consumer Services,Other Consumer Services,True,True,False,False,True,False,True,4
+ABNB,Consumer Services,Other Consumer Services,False,True,True,False,True,-,True,4
+TMUS,Communications,Wireless Telecommunications,False,True,False,False,True,False,True,3
+FISV,Finance,Regional Banks,False,True,False,False,True,False,True,3
+AMAT,Producer Manufacturing,Industrial Machinery,True,True,False,False,-,False,True,3
+ZS,Technology Services,Data Processing Services,False,True,False,True,-,False,True,3
+WDAY,Technology Services,Information Technology Services,False,True,False,False,False,True,True,3
+CTSH,Technology Services,Information Technology Services,True,True,False,False,True,-,-,3
+GOOGL,Technology Services,Internet Software/Services,True,True,False,False,True,False,-,3
+META,Technology Services,Internet Software/Services,True,True,False,False,True,False,-,3
+BIDU,Technology Services,Internet Software/Services,False,False,False,False,True,True,True,3
+DDOG,Technology Services,Packaged Software,False,True,False,False,True,False,True,3
+ZM,Technology Services,Packaged Software,True,False,False,False,-,True,True,3
+INTU,Technology Services,Packaged Software,False,False,False,True,True,False,True,3
+DOCU,Technology Services,Packaged Software,False,True,False,False,True,False,True,3
+ADSK,Technology Services,Packaged Software,True,True,False,False,True,False,-,3
+TEAM,Technology Services,Packaged Software,False,False,False,True,True,False,True,3
+MRVL,Electronic Technology,Semiconductors,False,True,False,False,True,False,True,3
+AMD,Electronic Technology,Semiconductors,True,False,False,False,True,-,True,3
+ADI,Electronic Technology,Semiconductors,False,True,False,True,-,False,True,3
+XEL,Utilities,Electric Utilities,False,True,False,True,True,-,-,3
+ORLY,Retail Trade,Specialty Stores,-,True,False,False,True,False,True,3
+MELI,Retail Trade,Internet Retail,False,True,False,False,True,False,True,3
+JD,Retail Trade,Internet Retail,False,True,False,False,True,False,True,3
+BIIB,Health Technology,Biotechnology,False,True,False,False,True,False,True,3
+SGEN,Health Technology,Pharmaceuticals: Major,False,True,False,False,True,False,True,3
+AZN,Health Technology,Pharmaceuticals: Major,False,True,False,True,False,True,-,3
+SIRI,Consumer Services,Broadcasting,-,True,False,False,True,-,True,3
+MAR,Consumer Services,Hotels/Resorts/Cruise lines,True,True,False,False,True,False,-,3
+KHC,Consumer Non-Durables,Food: Major Diversified,False,True,False,False,False,False,True,2
+MTCH,Technology Services,Internet Software/Services,-,True,False,True,-,-,-,2
+SPLK,Technology Services,Packaged Software,False,False,False,False,True,False,True,2
+PANW,Technology Services,Packaged Software,False,False,False,False,True,False,True,2
+ANSS,Technology Services,Packaged Software,False,True,False,False,True,False,-,2
+SBUX,Consumer Services,Restaurants,-,True,False,False,-,False,True,2

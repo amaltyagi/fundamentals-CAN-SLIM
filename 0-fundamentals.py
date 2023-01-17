@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from urllib3 import exceptions
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import Select
+#from selenium.webdriver.support.ui import Select
 #from webdriver_manager.firefox import GeckoDriverManager
 import sys, os
 import time, datetime
@@ -21,7 +21,7 @@ with open(file) as f:
 fundamentals = [['Ticker','Industry','Sector','Fiscal_Year_End','ROE','Annual_EPS','Annual_EPS_Growth','Annual_Net_Income_Growth','Annual_Basic_Shares_Outstanding','Annual_Sales_Growth','Quarter_EPS','Quarter_EPS_Growth','Quarter_Net_Income_Growth','Quarter_Net_Margin','Quarter_Sales_Growth','Total_Shareholders_Equity','Liabilities_&_Shareholders_Equity','Net_Operating_Cash_Flow']]
 
 options = Options()
-#options.add_argument("--headless")
+options.add_argument("--headless")
 driver = webdriver.Chrome(options=options)
 
 """
@@ -146,7 +146,8 @@ def scrape(tickers=listings):
                 
 
             """
-            # Finally, CNN has several lists regarding insider & institutional investments
+            # Finally, CNN has several lists regarding insider & institutional investments.
+            # Selenium (the following code) isn't necessary for scraping these images...check out the next Python file
             driver.get('https://money.cnn.com/quote/shareholders/shareholders.html?symb='+ticker+'&subView=insider')
             time.sleep(2)
             soup = BeautifulSoup(driver.page_source, 'html.parser', from_encoding='utf-8')
